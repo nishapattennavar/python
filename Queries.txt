@@ -1,0 +1,10 @@
+ist1 = [1, 2, 3, 4]
+for num in list1:
+    squared_value = num ** 2
+    print(squared_value, end=', ')
+
+
+
+
+
+
